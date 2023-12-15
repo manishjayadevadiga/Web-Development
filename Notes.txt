@@ -5,13 +5,5 @@ Markup Language - this is a quote " " - ths part is a quotation.
 
 --------------------------------------------------------------------
 
-HTML HEADING ELEMENT:
-
-<h1> Hello World </h1>   - has opening and closing TAG
-
-has tags from <h1> ... <h6>
-
-every line including the tag and inside info is called an ELEMENT 
-
 
 
