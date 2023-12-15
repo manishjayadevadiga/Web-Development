@@ -1,0 +1,3 @@
+VOID ELEMENT: <hr/> <br/>
+
+An element where information is forbidden inside a tag 
