@@ -1,0 +1,6 @@
+<ul> - unordered lists 
+<li> - list items 
+
+This will be in bullet pointfa-spin
+
+<ol> - ordered lists. Yhis will be numbered
