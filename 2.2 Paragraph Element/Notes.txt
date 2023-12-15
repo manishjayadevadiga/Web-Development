@@ -1,0 +1,4 @@
+<p> this is a paragraph <p>
+<p> this is 2nd para <p>
+
+2 para tags are separated by a line 
